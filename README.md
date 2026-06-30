@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/adityaB-code100/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adityaB-code100/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/adityaB-code100/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Counting
@@ -39,5 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/adityaB-code100/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityaB-code100/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/adityaB-code100/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
