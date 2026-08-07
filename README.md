@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/adityaB-code100/leetcode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/adityaB-code100/leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/adityaB-code100/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityaB-code100/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0875-koko-eating-bananas](https://github.com/adityaB-code100/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1260-shift-2d-grid](https://github.com/adityaB-code100/leetcode/tree/master/1260-shift-2d-grid) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/adityaB-code100/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1331-rank-transform-of-an-array](https://github.com/adityaB-code100/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adityaB-code100/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adityaB-code100/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/adityaB-code100/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/adityaB-code100/leetcode/tree/master/1260-shift-2d-grid) |
 ## Binary Search
 |  |
