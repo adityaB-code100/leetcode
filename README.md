@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/adityaB-code100/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/adityaB-code100/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityaB-code100/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0704-binary-search](https://github.com/adityaB-code100/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/adityaB-code100/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1260-shift-2d-grid](https://github.com/adityaB-code100/leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/adityaB-code100/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/adityaB-code100/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/adityaB-code100/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
