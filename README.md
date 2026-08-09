@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/adityaB-code100/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0451-sort-characters-by-frequency](https://github.com/adityaB-code100/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/adityaB-code100/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adityaB-code100/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adityaB-code100/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/adityaB-code100/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/adityaB-code100/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Bit Manipulation
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adityaB-code100/leetcode/tree/master/0015-3sum) |
+| [0451-sort-characters-by-frequency](https://github.com/adityaB-code100/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/adityaB-code100/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityaB-code100/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3731-find-missing-elements](https://github.com/adityaB-code100/leetcode/tree/master/3731-find-missing-elements) |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/adityaB-code100/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adityaB-code100/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityaB-code100/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/adityaB-code100/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -118,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/adityaB-code100/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityaB-code100/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/adityaB-code100/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/adityaB-code100/leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
