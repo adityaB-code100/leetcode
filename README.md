@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/adityaB-code100/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/adityaB-code100/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityaB-code100/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/adityaB-code100/leetcode/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/adityaB-code100/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/adityaB-code100/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1260-shift-2d-grid](https://github.com/adityaB-code100/leetcode/tree/master/1260-shift-2d-grid) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/adityaB-code100/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/adityaB-code100/leetcode/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/adityaB-code100/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3827-count-monobit-integers](https://github.com/adityaB-code100/leetcode/tree/master/3827-count-monobit-integers) |
