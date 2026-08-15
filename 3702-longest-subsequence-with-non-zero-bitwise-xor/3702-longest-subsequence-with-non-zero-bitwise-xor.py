@@ -13,7 +13,4 @@ class Solution:
 
             else:
 
-                for c in nums:
-                    if c^x>0:
-                        return len(nums)-1
-
+              return n-1
