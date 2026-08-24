@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/adityaB-code100/leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/adityaB-code100/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityaB-code100/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/adityaB-code100/leetcode/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityaB-code100/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityaB-code100/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityaB-code100/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/adityaB-code100/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/adityaB-code100/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/adityaB-code100/leetcode/tree/master/0231-power-of-two) |
+| [1872-stone-game-viii](https://github.com/adityaB-code100/leetcode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityaB-code100/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adityaB-code100/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityaB-code100/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/adityaB-code100/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/adityaB-code100/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityaB-code100/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1872-stone-game-viii](https://github.com/adityaB-code100/leetcode/tree/master/1872-stone-game-viii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/adityaB-code100/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1872-stone-game-viii](https://github.com/adityaB-code100/leetcode/tree/master/1872-stone-game-viii) |
 ## Tree
 |  |
 | ------- |
@@ -265,4 +269,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/adityaB-code100/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/adityaB-code100/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adityaB-code100/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/adityaB-code100/leetcode/tree/master/1872-stone-game-viii) |
+## Game Theory
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/adityaB-code100/leetcode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/adityaB-code100/leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
