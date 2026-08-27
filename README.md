@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityaB-code100/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/adityaB-code100/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adityaB-code100/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/adityaB-code100/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/adityaB-code100/leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/adityaB-code100/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/adityaB-code100/leetcode/tree/master/0621-task-scheduler) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/adityaB-code100/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/adityaB-code100/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/adityaB-code100/leetcode/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adityaB-code100/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/adityaB-code100/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/adityaB-code100/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3827-count-monobit-integers](https://github.com/adityaB-code100/leetcode/tree/master/3827-count-monobit-integers) |
 ## Greedy
 |  |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/adityaB-code100/leetcode/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/adityaB-code100/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityaB-code100/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/adityaB-code100/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adityaB-code100/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityaB-code100/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/adityaB-code100/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/adityaB-code100/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
