@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/adityaB-code100/leetcode/tree/master/0176-second-highest-salary) |
 | [0197-rising-temperature](https://github.com/adityaB-code100/leetcode/tree/master/0197-rising-temperature) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/adityaB-code100/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0620-not-boring-movies](https://github.com/adityaB-code100/leetcode/tree/master/0620-not-boring-movies) |
 ## Prefix Sum
 |  |
 | ------- |
