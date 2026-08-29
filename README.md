@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/adityaB-code100/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/adityaB-code100/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityaB-code100/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1020-number-of-enclaves](https://github.com/adityaB-code100/leetcode/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/adityaB-code100/leetcode/tree/master/1260-shift-2d-grid) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/adityaB-code100/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/adityaB-code100/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/adityaB-code100/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/adityaB-code100/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/adityaB-code100/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/adityaB-code100/leetcode/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/adityaB-code100/leetcode/tree/master/1260-shift-2d-grid) |
 ## Binary Search
 |  |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/adityaB-code100/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/adityaB-code100/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/adityaB-code100/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/adityaB-code100/leetcode/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adityaB-code100/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityaB-code100/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/adityaB-code100/leetcode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/adityaB-code100/leetcode/tree/master/1020-number-of-enclaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -364,4 +368,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/adityaB-code100/leetcode/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/adityaB-code100/leetcode/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
