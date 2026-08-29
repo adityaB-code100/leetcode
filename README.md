@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/adityaB-code100/leetcode/tree/master/0197-rising-temperature) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/adityaB-code100/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0620-not-boring-movies](https://github.com/adityaB-code100/leetcode/tree/master/0620-not-boring-movies) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/adityaB-code100/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1084-sales-analysis-iii](https://github.com/adityaB-code100/leetcode/tree/master/1084-sales-analysis-iii) |
 | [1757-recyclable-and-low-fat-products](https://github.com/adityaB-code100/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Prefix Sum
