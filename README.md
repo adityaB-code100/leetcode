@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaB-code100/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/adityaB-code100/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/adityaB-code100/leetcode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/adityaB-code100/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityaB-code100/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/adityaB-code100/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaB-code100/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/adityaB-code100/leetcode/tree/master/0022-generate-parentheses) |
+| [0127-word-ladder](https://github.com/adityaB-code100/leetcode/tree/master/0127-word-ladder) |
 | [0451-sort-characters-by-frequency](https://github.com/adityaB-code100/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/adityaB-code100/leetcode/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adityaB-code100/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/adityaB-code100/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0127-word-ladder](https://github.com/adityaB-code100/leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/adityaB-code100/leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/adityaB-code100/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0542-01-matrix](https://github.com/adityaB-code100/leetcode/tree/master/0542-01-matrix) |
@@ -375,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/adityaB-code100/leetcode/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/adityaB-code100/leetcode/tree/master/1020-number-of-enclaves) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/adityaB-code100/leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
