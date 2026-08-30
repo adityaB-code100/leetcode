@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/adityaB-code100/leetcode/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/adityaB-code100/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1084-sales-analysis-iii](https://github.com/adityaB-code100/leetcode/tree/master/1084-sales-analysis-iii) |
+| [1179-reformat-department-table](https://github.com/adityaB-code100/leetcode/tree/master/1179-reformat-department-table) |
 | [1484-group-sold-products-by-the-date](https://github.com/adityaB-code100/leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1757-recyclable-and-low-fat-products](https://github.com/adityaB-code100/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Prefix Sum
