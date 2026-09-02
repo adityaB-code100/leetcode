@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-sales-analysis-iii](https://github.com/adityaB-code100/leetcode/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/adityaB-code100/leetcode/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/adityaB-code100/leetcode/tree/master/1179-reformat-department-table) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/adityaB-code100/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/adityaB-code100/leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/adityaB-code100/leetcode/tree/master/1527-patients-with-a-condition) |
 | [1757-recyclable-and-low-fat-products](https://github.com/adityaB-code100/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
