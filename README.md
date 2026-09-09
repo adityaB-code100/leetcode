@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adityaB-code100/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityaB-code100/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/adityaB-code100/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0485-max-consecutive-ones](https://github.com/adityaB-code100/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/adityaB-code100/leetcode/tree/master/0500-keyboard-row) |
 | [0542-01-matrix](https://github.com/adityaB-code100/leetcode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/adityaB-code100/leetcode/tree/master/0621-task-scheduler) |
