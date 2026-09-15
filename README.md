@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/adityaB-code100/leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/adityaB-code100/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/adityaB-code100/leetcode/tree/master/1873-calculate-special-bonus) |
+| [1890-the-latest-login-in-2020](https://github.com/adityaB-code100/leetcode/tree/master/1890-the-latest-login-in-2020) |
 ## Prefix Sum
 |  |
 | ------- |
