@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/adityaB-code100/leetcode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/adityaB-code100/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/adityaB-code100/leetcode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/adityaB-code100/leetcode/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/adityaB-code100/leetcode/tree/master/0846-hand-of-straights) |
 | [0848-shifting-letters](https://github.com/adityaB-code100/leetcode/tree/master/0848-shifting-letters) |
 | [0875-koko-eating-bananas](https://github.com/adityaB-code100/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/adityaB-code100/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/adityaB-code100/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/adityaB-code100/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/adityaB-code100/leetcode/tree/master/0739-daily-temperatures) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityaB-code100/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -560,4 +562,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/adityaB-code100/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/adityaB-code100/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
