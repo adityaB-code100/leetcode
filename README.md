@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/adityaB-code100/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/adityaB-code100/leetcode/tree/master/0733-flood-fill) |
 | [0846-hand-of-straights](https://github.com/adityaB-code100/leetcode/tree/master/0846-hand-of-straights) |
+| [0848-shifting-letters](https://github.com/adityaB-code100/leetcode/tree/master/0848-shifting-letters) |
 | [0875-koko-eating-bananas](https://github.com/adityaB-code100/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/adityaB-code100/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityaB-code100/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/adityaB-code100/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/adityaB-code100/leetcode/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/adityaB-code100/leetcode/tree/master/0771-jewels-and-stones) |
+| [0848-shifting-letters](https://github.com/adityaB-code100/leetcode/tree/master/0848-shifting-letters) |
 | [0940-distinct-subsequences-ii](https://github.com/adityaB-code100/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adityaB-code100/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityaB-code100/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0848-shifting-letters](https://github.com/adityaB-code100/leetcode/tree/master/0848-shifting-letters) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityaB-code100/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityaB-code100/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityaB-code100/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
