@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityaB-code100/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityaB-code100/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/adityaB-code100/leetcode/tree/master/1872-stone-game-viii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/adityaB-code100/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityaB-code100/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Heap (Priority Queue)
 |  |
@@ -569,12 +570,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/adityaB-code100/leetcode/tree/master/0210-course-schedule-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/adityaB-code100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/adityaB-code100/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/adityaB-code100/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/adityaB-code100/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/adityaB-code100/leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/adityaB-code100/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/adityaB-code100/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -595,8 +598,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/adityaB-code100/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/adityaB-code100/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/adityaB-code100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/adityaB-code100/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
