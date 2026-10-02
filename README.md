@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/adityaB-code100/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/adityaB-code100/leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/adityaB-code100/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/adityaB-code100/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/adityaB-code100/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/adityaB-code100/leetcode/tree/master/0268-missing-number) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/adityaB-code100/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/adityaB-code100/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/adityaB-code100/leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/adityaB-code100/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/adityaB-code100/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityaB-code100/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -610,4 +612,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/adityaB-code100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/adityaB-code100/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/adityaB-code100/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
