@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityaB-code100/leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/adityaB-code100/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/adityaB-code100/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/adityaB-code100/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityaB-code100/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaB-code100/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/adityaB-code100/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/adityaB-code100/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adityaB-code100/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adityaB-code100/leetcode/tree/master/0032-longest-valid-parentheses) |
@@ -667,4 +669,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/adityaB-code100/leetcode/tree/master/1143-longest-common-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/adityaB-code100/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
