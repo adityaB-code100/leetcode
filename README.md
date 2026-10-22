@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/adityaB-code100/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/adityaB-code100/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/adityaB-code100/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/adityaB-code100/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityaB-code100/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/adityaB-code100/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/adityaB-code100/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/adityaB-code100/leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/adityaB-code100/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/adityaB-code100/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/adityaB-code100/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityaB-code100/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityaB-code100/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityaB-code100/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/adityaB-code100/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adityaB-code100/leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/adityaB-code100/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityaB-code100/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/adityaB-code100/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/adityaB-code100/leetcode/tree/master/0621-task-scheduler) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/adityaB-code100/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/adityaB-code100/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/adityaB-code100/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/adityaB-code100/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityaB-code100/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityaB-code100/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/adityaB-code100/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/adityaB-code100/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/adityaB-code100/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityaB-code100/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/adityaB-code100/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -376,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adityaB-code100/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityaB-code100/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/adityaB-code100/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/adityaB-code100/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/adityaB-code100/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/adityaB-code100/leetcode/tree/master/0621-task-scheduler) |
@@ -384,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/adityaB-code100/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/adityaB-code100/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Stack
 |  |
@@ -610,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityaB-code100/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/adityaB-code100/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
