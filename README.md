@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/adityaB-code100/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/adityaB-code100/leetcode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/adityaB-code100/leetcode/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/adityaB-code100/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/adityaB-code100/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/adityaB-code100/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/adityaB-code100/leetcode/tree/master/0739-daily-temperatures) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/adityaB-code100/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/adityaB-code100/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/adityaB-code100/leetcode/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/adityaB-code100/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0846-hand-of-straights](https://github.com/adityaB-code100/leetcode/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/adityaB-code100/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/adityaB-code100/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaB-code100/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0658-find-k-closest-elements](https://github.com/adityaB-code100/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityaB-code100/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adityaB-code100/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityaB-code100/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/adityaB-code100/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/adityaB-code100/leetcode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityaB-code100/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0658-find-k-closest-elements](https://github.com/adityaB-code100/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/adityaB-code100/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityaB-code100/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityaB-code100/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adityaB-code100/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityaB-code100/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityaB-code100/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/adityaB-code100/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/adityaB-code100/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/adityaB-code100/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityaB-code100/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -393,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/adityaB-code100/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/adityaB-code100/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/adityaB-code100/leetcode/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/adityaB-code100/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/adityaB-code100/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/adityaB-code100/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
