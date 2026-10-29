@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/adityaB-code100/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/adityaB-code100/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/adityaB-code100/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/adityaB-code100/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/adityaB-code100/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/adityaB-code100/leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/adityaB-code100/leetcode/tree/master/0118-pascals-triangle) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/adityaB-code100/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adityaB-code100/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/adityaB-code100/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/adityaB-code100/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/adityaB-code100/leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/adityaB-code100/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/adityaB-code100/leetcode/tree/master/0733-flood-fill) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityaB-code100/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityaB-code100/leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/adityaB-code100/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/adityaB-code100/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityaB-code100/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityaB-code100/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
