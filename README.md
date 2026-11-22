@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adityaB-code100/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/adityaB-code100/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityaB-code100/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/adityaB-code100/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/adityaB-code100/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adityaB-code100/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/adityaB-code100/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
